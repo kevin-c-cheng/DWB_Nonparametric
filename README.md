@@ -1,1 +1,1 @@
-# DynamicalWassersteinBarycenters_Nonparametric
+# Regularized Nonparametric Dynamical Wasserstein Barycenters
